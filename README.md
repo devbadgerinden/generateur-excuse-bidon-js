@@ -1,0 +1,1 @@
+# generateur-excuse-bidon-js
